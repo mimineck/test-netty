@@ -10,7 +10,6 @@
 		<module>nio-server</module>
 	</modules>
 
-
 	<build>
 		<plugins>
 			<plugin>
